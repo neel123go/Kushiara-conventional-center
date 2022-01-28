@@ -44,3 +44,17 @@ body{
     height: 500px;
     border-radius: 20px;
 }
+
+/* Slider carousel-caption Responsive for small device */
+@media screen and (max-width: 768px){
+    .carousel-caption-title{
+        font-size: 18px;
+    }
+    .slider-caption-subtitle{
+        font-size: 14px;
+        margin: 0;
+    }
+    .slider-img{
+        height: 14rem;
+    }
+}
