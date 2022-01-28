@@ -1,0 +1,46 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.custom-margin{
+    margin-bottom: 100px;
+}
+.blue-text{
+    color: #231D4F;
+}
+.check-icon{
+    color: #5243C2;
+    background-color: #8881bd49;
+    border-radius: 50%;
+    width: 20px;
+}
+.custom-btn{
+    background-color: #f496d231;
+}
+.badge-style{
+    background-color: #FF4E4E;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+.best-sale-card{
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+    margin-top: -20px;
+}
+.best-sale-check-icon{
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.157);
+    border-radius: 50%;
+    width: 20px;
+}
+.custom-footer-bg{
+    background-color: #0B0D17;
+}
+.form-bg{
+    background-image: linear-gradient(to right, #2c3e5054, #3498db62);
+    height: 500px;
+    border-radius: 20px;
+}
